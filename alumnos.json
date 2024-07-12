@@ -1,0 +1,14 @@
+[
+    {"alumno":"Brais","nota":10,"ranking":1},
+    {"alumno":"Andrea","nota":4,"ranking":150},
+    {"alumno":"Carlos","nota":8,"ranking":30},
+    {"alumno":"David","nota":9,"ranking":20},
+    {"alumno":"Elena","nota":5.5,"ranking":100},
+    {"alumno":"Marta","nota":9.5,"ranking":5},
+    {"alumno":"Gabriel","nota":3,"ranking":180},
+    {"alumno":"Hector","nota":1,"ranking":200},
+    {"alumno":"Isabel","nota":6,"ranking":70},
+    {"alumno":"Javier","nota":6.5,"ranking":60},
+    {"alumno":"Laura","nota":7,"ranking":50},
+    {"alumno":"Fernanda","nota":5,"ranking":110}
+]
